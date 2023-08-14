@@ -24,5 +24,5 @@ Insert a GIF or link to a video that demonstrates your virtual AI keyboard in ac
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/virtual-ai-keyboard.git
+   git clone https://github.com/Sumit-Sharma-26/virtual-ai-keyboard.git
  
