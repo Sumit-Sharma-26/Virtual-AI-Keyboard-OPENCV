@@ -1,5 +1,3 @@
-# Virtual-AI-Keyboard-OPENCV
-
 # Virtual AI Keyboard with Python and OpenCV
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
